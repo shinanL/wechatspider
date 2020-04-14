@@ -1,0 +1,31 @@
+- desc: Android_Pixel1-03
+  desired_caps:
+    platformName: Android
+    deviceName: FA6BJ0305835
+    appPackage: com.tencent.mm
+    appActivity: com.tencent.mm.ui.LauncherUI
+    noReset:  !!bool True
+    udid: FA6BJ0305835
+    chromeOptions:
+      'androidProcess': 'com.tencent.mm:toolsmp'
+    chromedriverExecutable: '/usr/local/bin/chromedriver'
+    recreateChromeDriverSessions: !!bool True
+    unicodeKeyboard: !!bool True
+    resetKeyboard: !!bool True
+    webContentsDebuggingEnabled: !!bool True
+
+- desc: Android_Pixel1-09
+  desired_caps:
+    platformName: Android
+    deviceName: FA69J0308895
+    appPackage: com.tencent.mm
+    appActivity: com.tencent.mm.ui.LauncherUI
+    noReset:  !!bool True
+    udid: FA69J0308895
+    chromeOptions:
+      'androidProcess': 'com.tencent.mm:toolsmp'
+    chromedriverExecutable: '/usr/local/bin/chromedriver'
+    recreateChromeDriverSessions: !!bool True
+    unicodeKeyboard: !!bool True
+    resetKeyboard: !!bool True
+    webContentsDebuggingEnabled: !!bool True

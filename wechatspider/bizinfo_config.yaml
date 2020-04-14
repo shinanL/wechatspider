@@ -1,0 +1,13 @@
+- desc: Android_Pixel1-03
+  udid: FA6BJ0305835
+  start: 51
+  end: 73
+
+- desc: Android_Pixel1-09
+  udid: FA69J0308895
+  start: 510
+  end: 530
+
+- {desc: Android_Pixel1-01, end: 1030, start: 1018, udid: FA7280301336}
+
+

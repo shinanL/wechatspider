@@ -1,0 +1,12 @@
+platformName: Android
+appPackage: com.tencent.mm
+appActivity: com.tencent.mm.ui.LauncherUI
+noReset:  !!bool True
+chromeOptions:
+  'androidProcess': 'com.tencent.mm:toolsmp'
+chromedriverExecutable: '/usr/local/bin/chromedriver'
+recreateChromeDriverSessions: !!bool True
+unicodeKeyboard: !!bool True
+resetKeyboard: !!bool True
+webContentsDebuggingEnabled: !!bool True
+ip: 127.0.0.1

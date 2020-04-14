@@ -1,0 +1,2 @@
+#!/bin/bash
+ps -ef | grep article_comment  | grep -v grep | awk '{print $2}' | xargs kill -9 ||  # 杀死进程，此处可以省略||，（用|| 而没用&& ，因为此命令运行后会出现kill: xxxx: No such process 错误，|| 的意思是出现错误后执行接下来的语句，而&&是没有错误的情况下执行接下来的语句）

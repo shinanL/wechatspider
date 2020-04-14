@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94c83181-ad93-4c7b-bdaa-ec701df3ee85" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wechatspider" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/utils.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/datautil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configs/stop_words.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configs/微信专属停用词">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact_config.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desired_caps.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stop_words">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comment/article_comment.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bizinfo/biz_info_json_bybiz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="158" column="45" selection-start-line="158" selection-start-column="38" selection-end-line="158" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bizinfo_config.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plot</find>
+      <find>Arial Unicode MS</find>
+      <find>simhei</find>
+      <find>DejaVu Sans</find>
+      <find>read_map</find>
+      <find>--------------------------------</find>
+      <find>--------</find>
+      <find>魏传忠理想信念丧失</find>
+      <find>所采取的DNA则在解决</find>
+      <find>学院副教授、中</find>
+      <find>找东西的过程就像破案，</find>
+      <find>阅读量：</find>
+      <find>@</find>
+      <find>MjM5MjAxNDM4MA==</find>
+      <find>comment</find>
+      <find>+commentlike_num/300</find>
+      <find>采集文章:</find>
+      <find>-</find>
+      <find>\n</find>
+      <find>范丰辉</find>
+      <find>update</find>
+      <find>strong_content</find>
+      <find>段落长度</find>
+      <find>1</find>
+      <find>to</find>
+      <find>escape</find>
+      <find>venn3</find>
+      <find>values</find>
+      <find>c</find>
+      <find>webdri</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>contenturl</replace>
+      <replace>udid</replace>
+      <replace>class_</replace>
+      <replace>print</replace>
+      <replace>logging.info</replace>
+      <replace>:</replace>
+      <replace>readnum</replace>
+      <replace>scatter</replace>
+      <replace>like_map</replace>
+      <replace>MzA5OTQyMDgyOQ==</replace>
+      <replace>+commentlike_num</replace>
+      <replace>color_content</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/kmeans3.py" />
+        <option value="$PROJECT_DIR$/test/single_pass.py" />
+        <option value="$PROJECT_DIR$/bizinfo/biz_info_exception.py" />
+        <option value="$PROJECT_DIR$/autocontact/autocontact_bysql_exception.py" />
+        <option value="$PROJECT_DIR$/autocontact/autocontact_bysql_exception0.py" />
+        <option value="$PROJECT_DIR$/autocontact/autocontact_bysql_exception1.py" />
+        <option value="$PROJECT_DIR$/bizinfo/biz_info_exception0.py" />
+        <option value="$PROJECT_DIR$/test/LatentDirichletAllocationClustering.py" />
+        <option value="$PROJECT_DIR$/test/LDA.py" />
+        <option value="$PROJECT_DIR$/comment/article_comment_0.py" />
+        <option value="$PROJECT_DIR$/comment/article_comment.py" />
+        <option value="$PROJECT_DIR$/comment/article_comment_1.py" />
+        <option value="$PROJECT_DIR$/data_predeal/time_deal.py" />
+        <option value="$PROJECT_DIR$/bizinfo/biz_info_exception1.py" />
+        <option value="$PROJECT_DIR$/data_predeal/readnum.py" />
+        <option value="$PROJECT_DIR$/data_predeal/read_num.py" />
+        <option value="$PROJECT_DIR$/data_predeal/readinfo.txt" />
+        <option value="$PROJECT_DIR$/data_predeal/like_num.py" />
+        <option value="$PROJECT_DIR$/autocontact/autocontact.py" />
+        <option value="$PROJECT_DIR$/comment/article_comment_21.py" />
+        <option value="$PROJECT_DIR$/test/article_comment.py" />
+        <option value="$PROJECT_DIR$/data_predeal/location_infection/high_quantity.py" />
+        <option value="$PROJECT_DIR$/data_predeal/high_quantity.py" />
+        <option value="$PROJECT_DIR$/test/wordcut.py" />
+        <option value="$PROJECT_DIR$/test/test.txt" />
+        <option value="$PROJECT_DIR$/data_predeal/advertisement.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/data_predeal/data_predeal.py" />
+        <option value="$PROJECT_DIR$/test/stop_words" />
+        <option value="$PROJECT_DIR$/data_predeal/test.py" />
+        <option value="$PROJECT_DIR$/data_predeal/train_data_extract.py" />
+        <option value="$PROJECT_DIR$/comment/article_comment_20.py" />
+        <option value="$PROJECT_DIR$/data_predeal/comment_num.py" />
+        <option value="$PROJECT_DIR$/data_predeal/publish_time.py" />
+        <option value="$PROJECT_DIR$/common/pltutil.py" />
+        <option value="$PROJECT_DIR$/data_predeal/location_num.py" />
+        <option value="$PROJECT_DIR$/data_predeal/mean_analysis.py" />
+        <option value="$PROJECT_DIR$/data_predeal/publicactivity.py" />
+        <option value="$PROJECT_DIR$/data_predeal/heat_content.py" />
+        <option value="$PROJECT_DIR$/apispider/wechat_spider_python.py" />
+        <option value="$PROJECT_DIR$/apispider/search_biz_by_keyword.py" />
+        <option value="$PROJECT_DIR$/apispider/search_biz_by_nickname.py" />
+        <option value="$PROJECT_DIR$/autocontact/autocontact_bysql.py" />
+        <option value="$PROJECT_DIR$/bizinfo/biz_info_json_bybiz.py" />
+        <option value="$PROJECT_DIR$/bizinfo/biz_info_json_bybiz_0.py" />
+        <option value="$PROJECT_DIR$/common/datautil.py" />
+        <option value="$PROJECT_DIR$/common/dbutil.py" />
+        <option value="$PROJECT_DIR$/common/wxdriver.py" />
+        <option value="$PROJECT_DIR$/test/read_data.py" />
+        <option value="$PROJECT_DIR$/test/time_deal.py" />
+        <option value="$PROJECT_DIR$/multidevice/multi_device_sync.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wechatspider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatspider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatspider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatspider" type="462c0819:PsiDirectoryNode" />
+              <item name="bizinfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatspider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatspider" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatspider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatspider" type="462c0819:PsiDirectoryNode" />
+              <item name="data_predeal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/configs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_predeal" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/common" />
+      <recent name="$PROJECT_DIR$/other" />
+      <recent name="$PROJECT_DIR$/autocontact" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/configs" />
+      <recent name="$PROJECT_DIR$/common" />
+      <recent name="$PROJECT_DIR$/shell" />
+      <recent name="$PROJECT_DIR$/data_predeal" />
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.heat_content">
+    <configuration name="comment_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechatspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_predeal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_predeal/comment_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heat_content" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechatspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_predeal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_predeal/heat_content.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="location_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechatspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_predeal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_predeal/location_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publicactivity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechatspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_predeal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_predeal/publicactivity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publish_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechatspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_predeal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_predeal/publish_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.comment_num" />
+      <item itemvalue="Python.heat_content" />
+      <item itemvalue="Python.location_num" />
+      <item itemvalue="Python.publicactivity" />
+      <item itemvalue="Python.publish_time" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.heat_content" />
+        <item itemvalue="Python.publicactivity" />
+        <item itemvalue="Python.location_num" />
+        <item itemvalue="Python.publish_time" />
+        <item itemvalue="Python.comment_num" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c83181-ad93-4c7b-bdaa-ec701df3ee85" name="Default Changelist" comment="" />
+      <created>1569392410197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569392410197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496063" visible="true" weight="0.20492454" />
+      <window_info id="Structure" order="1" sideWeight="0.503937" side_tool="true" weight="0.1709943" />
+      <window_info id="Favorites" order="2" sideWeight="0.501182" side_tool="true" weight="0.21445592" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32054794" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4892772" weight="0.539726" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.45068493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21362229" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4980143" weight="0.59041095" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5107228" side_tool="true" weight="0.65890414" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49722" weight="0.32054794" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496063" visible="true" weight="0.22557585" />
+      <window_info id="Structure" order="1" sideWeight="0.503937" side_tool="true" weight="0.1709943" />
+      <window_info id="Favorites" order="2" sideWeight="0.501182" side_tool="true" weight="0.21445592" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3219178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4892772" weight="0.539726" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.45068493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32465753" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4980143" weight="0.59041095" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5107228" side_tool="true" weight="0.65890414" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49722" weight="0.32054794" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/other/web.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multidevice/multi_device_sync.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multidevice/multi_device_sync.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comment/article_comment.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_predeal/publish_time.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="539" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>id=539</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id=</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id =</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>539</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_predeal/test_comment_vary_with_punish.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/Reviews_Distribution.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/Reviews_Density.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/readnum.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_like_commentlike.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_like_comment.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_like.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_daily.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_commentlike.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/read_comment.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/quan.txt" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/nickname_output.csv" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/readnum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1805">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/location_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/hot.txt" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/like_comment.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/like_comment_commentlike.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/like_commentlike.png" />
+    <entry file="file://$PROJECT_DIR$/data_predeal/like_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/historyefficiency.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/heat_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4279">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/data_predeal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2342">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/advertisement.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_predeal/advertisement.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apispider/search_biz_by_nickname.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autocontact/autocontact.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autocontact/autocontact_bysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/dbutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/global_variable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/wxdriver.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multidevice/multi_appium_sync.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multidevice/multi_device_sync.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multidevice/start.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/crontab">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/comment_daemon.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/start_biz.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/start_comment.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.txt" />
+    <entry file="file://$PROJECT_DIR$/shell/start_appium.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pltutil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/datautil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/stop_words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/微信专属停用词">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_config.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desired_caps.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bizinfo_config.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stop_words">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/article_comment.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bizinfo/biz_info_json_bybiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="158" column="45" selection-start-line="158" selection-start-column="38" selection-end-line="158" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
